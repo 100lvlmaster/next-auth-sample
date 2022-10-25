@@ -21,7 +21,7 @@ export default function Home() {
       <nav className="w-full items-end flex flex-row">
         <div className="flex-grow"></div>
         <div className="p-5">
-          <a href="#">
+          <a href="https://github.com/100lvlmaster/next-auth-sample">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               width="40"
